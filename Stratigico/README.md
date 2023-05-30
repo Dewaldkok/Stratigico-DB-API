@@ -25,7 +25,7 @@
         You can start off by cloning the Repo to your Local Machine
 
 
-        $ git clone https://github.com/your_username/your_project.git
+        $ git clone https://github.com/Dewaldkok/Stratigico-DB-API.git
         $ cd the_project
 
 ---
@@ -37,10 +37,9 @@
 ---
 
         -->NuGet Packages
-        To run this application, you need to have the following NiGet packages installed:
+        To run this application, you need to have the following NuGet packages installed:
 
         -Microsoft.AspNetCore.Mvc: This package provides the MVC framework for building web applications with ASP.NET Core.
         -Microsoft.EntityFrameworkCore: This package is used for working with databases using Entity Framework Core.
         -Microsoft.EntityFrameworkCore.Sqlite: This package allows you to use SQLite as the database provider with Entity Framework Core.
-        -Microsoft.IdentityModel.Tokens: This package provides support for JSON Web Tokens (JWT) and token-based authentication in ASP.NET Core applications.
         -Swashbuckle.AspNetCore: This package enables Swagger UI integration in ASP.NET Core applications for API documentation and testing.
